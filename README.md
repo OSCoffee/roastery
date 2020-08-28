@@ -14,6 +14,10 @@
 # 我们的倡议
 Creative Commons的许可证可以说是很灵活的，它有很多个版本，而我们选择的这个 [Attribution 4.0 International License][cc-by] 则是自由度最高的版本。您可以随意参考和使用本项目中任何一种咖啡生豆的烘焙资料或者多种豆子的拼配配方，来开发属于自己的产品，不管是盈利还是非盈利的。如果我们提供以及分享的信息或数据对您的事业或商业有帮助，我们会因此感到高兴。除此之外，我们更希望看到的是，您愿意选择继续沿用这个开源协议或其他的开源协议并公开、分享部分或全部有帮助的烘焙信息（虽然这个协议本身并没有强制要求你这么做），来更好的帮助其他愿意投入时间和精力在这一事业上的人。
 
+> He who receives ideas from me, receives instruction himself without lessening mine; as he who lights his taper at mine receives light without darkening me.
+>
+> – Thomas Jefferson
+
 如果您对Github和Git的使用感到舒适，并且也喜欢咖啡烘焙，同时如果暂时没有独立发展项目的打算，也可以考虑向我们提交pull request，我们相当欢迎。当然，对于本项目、或者我们售卖的咖啡豆当中发现的任何问题，都可以在这里提交issue。
 
 
