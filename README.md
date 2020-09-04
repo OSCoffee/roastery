@@ -18,7 +18,7 @@ Creative Commons的许可证可以说是很灵活的，它有很多个版本，�
 >
 > – Thomas Jefferson
 
-如果您对Github和Git的使用感到舒适，并且也喜欢咖啡烘焙，同时如果暂时没有独立发展项目的打算，也可以考虑向我们[提交pull request](https://github.com/OSCoffee/roastery/pulls)，我们相当欢迎。当然，对于本项目、或者我们售卖的咖啡豆当中发现的任何问题，都可以在[这里](https://github.com/OSCoffee/roastery/issues)提交issue。
+如果您对Gitee和Git的使用感到舒适，并且也喜欢咖啡烘焙，同时如果暂时没有独立发展项目的打算，也可以考虑向我们[提交pull request](https://gitee.com/os_coffee/roastery/pulls)，我们相当欢迎。当然，对于本项目、或者我们售卖的咖啡豆当中发现的任何问题，都可以在[这里](https://gitee.com/os_coffee/roastery/issues)提交issue。
 
 
 [cc-by]: https://creativecommons.org/licenses/by/4.0/deed.zh
