@@ -48,7 +48,7 @@
 
 # 链接
 
-[关于开源咖啡烘焙坊](https://os_coffee.gitee.io/roastery)
+[关于开源咖啡烘焙工坊](https://os_coffee.gitee.io/roastery)
 
 
 [PR2]: https://os_coffee.gitee.io/origin/#/docs/journal/caribbean/jamaican/pr2/
