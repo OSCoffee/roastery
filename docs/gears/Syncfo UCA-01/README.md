@@ -2,36 +2,50 @@
 
 ![Image](res/IMG_1058.png)
 
-# Product Features
+## 产品特点
 
-Light weighting design
-Multifunction (Green and roasted coffee bean, ground)
-No warm-up needed
-Minimum sample testability
-Clear indicator
-Magnetic charger
-Operating Range:
-Moisture: 1%~20%
-(Green Coffee Bean : >8%   Roasted Coffee Bean : >1% 
-Ground Coffee Powder : >1% )  
-Density: 100~1000g/L
-Color: 1~150 (Compatible with SCAA/Agtron Gourmet)
-Digital scale: 0~1100gr.
-Temperature: -10~50℃
+1.触控屏幕，轻松操作
 
-# Specifications
+2.易于携带，易于存储，专属定制航空箱
 
-Product: Syncfo UCA-01
-Display: LED light indicator
-Color Sensor: Infrared Ray IC Chip Sensor
-Power Supply:
-Power adaptor: 110V/220V to 5V
-Lithium Battery
-Size: 26x17x23cm( HxWxD)(with cyclone cover)
-Weight: 2.3kg
-Certification: CE, FCC
+3.省电模式，延长电池寿命
 
-# 官方站点
+4.世界首台多功能咖啡分析仪
+
+5.精确测量，与Gourmet量表使用的Agtron测量相同
+
+## 检测范围
+
+含水率:1％〜20％(咖啡生豆 : >8%  咖啡熟豆 : >1%  咖啡粉 : >1% )
+
+密度:100〜1000g / L
+
+颜色:1〜150（与SCAA / Agtron Gourmet兼容）
+
+重量:0〜1100gr
+
+温度:-10〜50℃
+
+## 规格
+
+产品:Syncfo UCA-01
+
+显示:LED指示灯
+
+颜色传感器:红外线IC芯片传感器
+
+电源供应:
+
+电源适配器:110V / 220V至5V
+
+锂电池
+
+尺寸:26x17x23cm（HxWxD）（带遮光罩）
+
+重量:2.3公斤
+
+认证:CE，FCC
+
+## 官方站点
 
 [https://syncfo.com](https://syncfo.com/chs/product.php#my)
-
