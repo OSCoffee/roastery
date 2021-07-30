@@ -26,4 +26,4 @@
 
 **瑕疵率:** 9.25%
 
-**检测仪:** [Syncfo CRA-01](https://gitee.com/os_coffee/roastery/tree/master/docs/gears/Syncfo%20UCA-01/)
+**检测仪:** [Syncfo UCA-01](https://gitee.com/os_coffee/roastery/tree/master/docs/gears/Syncfo%20UCA-01/)
