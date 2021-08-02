@@ -8,7 +8,7 @@
 
 ## 咖啡生豆
 
-**来源:** [PR#20-巴比伦庄园，水洗湿抛曼特宁](https://os_coffee.gitee.io/origin/#/docs/procurement/2021/Mar/pr20/)
+**来源:** [PR#20-巴比伦庄园，水洗湿抛曼特宁](https://oscoffee.github.io/origin/#/docs/procurement/2021/Mar/pr20/)
 
 **毛重:** 619.6g
 
@@ -55,8 +55,8 @@
 
 ## 相关设备
 
-**烘焙机:** [Aillio Bullet R1 V2](https://os_coffee.gitee.io/roastery/#/docs/gears/Aillio%20Bullet%20R1%20V2/)
+**烘焙机:** [Aillio Bullet R1 V2](https://oscoffee.github.io/roastery/#/docs/gears/Aillio%20Bullet%20R1%20V2/)
 
-**磨豆机:** [Lagom P100](https://os_coffee.gitee.io/roastery/#/docs/gears/Lagom%20P100/)
+**磨豆机:** [Lagom P100](https://oscoffee.github.io/roastery/#/docs/gears/Lagom%20P100/)
 
-**检测仪:** [Syncfo UCA-01](https://os_coffee.gitee.io/roastery/#/docs/gears/Syncfo%20UCA-01/)
+**检测仪:** [Syncfo UCA-01](https://oscoffee.github.io/roastery/#/docs/gears/Syncfo%20UCA-01/)
